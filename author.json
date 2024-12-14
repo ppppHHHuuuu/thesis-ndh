@@ -1,0 +1,31 @@
+{
+    "authors": [
+      {
+        "id": "author_001",
+        "name": "Nguyễn An Nguyên",
+        "bio": "Học sinh",
+        "src": "https://i.imgur.com/pewOUMB.jpeg"
+      },
+      {
+        "id": "author_002",
+        "name": "Trương Trang Nhung",
+        "bio": "Học sinh",
+        "src": "https://i.imgur.com/ZOMoo9S.jpeg"
+
+      },
+      {
+        "id": "author_003",
+        "name": "Tạ Hương Trà",
+        "bio": "Học sinh",
+        "src": "https://i.imgur.com/GS9Y1U0_d.webp"
+
+      },
+      {
+        "id": "author_004",
+        "name": "Nguyễn Diệu Hoa",
+        "bio": "Học sinh",
+        "src": "https://i.imgur.com/xieN5On.jpeg"
+
+      }
+    ]
+}

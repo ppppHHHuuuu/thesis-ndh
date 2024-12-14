@@ -1,0 +1,109 @@
+{
+  "authors": [
+    {
+      "id": "author_001",
+      "name": "Nguyễn An Nguyên",
+      "bio": "Học sinh",
+      "src": "https://i.imgur.com/pewOUMB.jpeg"
+    },
+    {
+      "id": "author_002",
+      "name": "Trương Trang Nhung",
+      "bio": "Học sinh",
+      "src": "https://i.imgur.com/ZOMoo9S.jpeg"
+    },
+    {
+      "id": "author_003",
+      "name": "Tạ Hương Trà",
+      "bio": "Học sinh",
+      "src": "https://i.imgur.com/GS9Y1U0_d.webp"
+    },
+    {
+      "id": "author_004",
+      "name": "Nguyễn Diệu Hoa",
+      "bio": "Học sinh",
+      "src": "https://i.imgur.com/xieN5On.jpeg"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_001",
+      "title": "Ánh hào quang của văn hóa flex: Tự khẳng định hay đánh mất mình?",
+      "author_id": "author_001",
+      "author": "Nguyễn An Nguyên",
+      "topic": {
+        "id": "topic_001",
+        "name": "Con người và chính mình"
+      },
+      "description": "Trong thời đại công nghệ số, văn hóa \"flex\" – hành động khoe khoang, thể hiện – đã trở thành một hiện tượng phổ biến.",
+      "content": "Trong thời đại công nghệ số, nơi mọi khoảnh khắc đều có thể được chia sẻ tức thì qua mạng xã hội, văn hóa \"flex\" – hành động khoe khoang, thể hiện – đã trở thành một hiện tượng phổ biến. Chỉ với vài thao tác đơn giản, chúng ta có thể lan tỏa hình ảnh về những chuyến du lịch xa hoa, những món đồ đắt tiền hay những thành tựu nổi bật. Flex dường như là cách để khẳng định bản thân, nhưng đồng thời cũng đặt ra nhiều câu hỏi về giá trị thực sự của nó: liệu đó là sự tự hào chính đáng, hay chỉ là lớp vỏ hào nhoáng che đậy những khoảng trống bên trong? Văn hóa flex, ở một khía cạnh nào đó, có thể mang lại những giá trị tích cực. Chia sẻ về thành tựu, niềm vui cá nhân là cách mỗi người tự thúc đẩy bản thân và tạo động lực cho người khác. Những câu chuyện về thành công hay hành trình vượt khó có thể truyền cảm hứng, khơi dậy ý chí vươn lên trong cộng đồng. Một bài đăng về sự nỗ lực học tập để đạt học bổng danh giá, chẳng hạn, có thể là nguồn cảm hứng cho nhiều bạn trẻ đang chật vật tìm kiếm định hướng tương lai. Flex, nếu xuất phát từ sự chân thành, có thể là biểu hiện của niềm hạnh phúc khi đạt được điều ý nghĩa.\n\nTuy nhiên, mặt trái của văn hóa flex cũng không thể bị xem nhẹ. Trong một thế giới nơi hình ảnh được ưu tiên hơn bản chất, flex vô tình tạo ra áp lực ngầm cho người tiếp nhận. Những bức ảnh về một cuộc sống \"lý tưởng\" thường khiến người khác cảm thấy tự ti và không hài lòng với bản thân. Người ta dễ dàng bị cuốn vào vòng xoáy so sánh xã hội, tìm mọi cách để đạt được những thứ họ thấy trên màn hình, ngay cả khi điều đó vượt quá khả năng thực tế. Hậu quả không chỉ là sự kiệt quệ về tài chính mà còn là sự mất cân bằng trong đời sống tinh thần.\n\nHơn nữa, văn hóa flex thúc đẩy sự lệch lạc trong việc định nghĩa giá trị con người. Những giá trị cốt lõi như lòng tử tế, sự kiên trì, hay khả năng sáng tạo dần bị lu mờ trước ánh hào quang của những giá trị bề nổi. Thành công không còn được đo bằng quá trình mà chỉ dựa trên kết quả, điều này khiến nhiều người sẵn sàng làm mọi cách, thậm chí bất chấp đạo đức, để đạt được sự công nhận nhất thời. Đặc biệt, giới trẻ – nhóm đối tượng dễ bị ảnh hưởng – có nguy cơ cao bị cuốn vào lối sống bề nổi, đánh mất định hướng và giá trị thực sự của bản thân.\n\nĐể thoát khỏi vòng xoáy của văn hóa flex, điều cần thiết là mỗi người cần học cách nhìn nhận lại giá trị của chính mình. Thành công thực sự không nằm ở việc sở hữu bao nhiêu thứ, mà ở việc bạn đã học hỏi và đóng góp được gì. Thay vì so sánh bản thân với người khác, hãy tập trung vào hành trình của riêng mình. Đồng thời, cộng đồng cần xây dựng một môi trường mạng xã hội lành mạnh, nơi mọi người có thể chia sẻ mà không sợ bị phán xét hay tạo áp lực cho nhau. Giáo dục cũng đóng vai trò quan trọng, giúp thế hệ trẻ hiểu rằng giá trị thực sự nằm ở nội tâm và những nỗ lực chân chính.\n\nVăn hóa flex không hoàn toàn xấu nếu nó chỉ đơn giản là sự chia sẻ niềm vui và tự hào chính đáng. Nhưng nếu để nó trở thành thước đo giá trị con người, chúng ta sẽ đánh mất những gì chân thực nhất. Thay vì chạy theo ánh hào quang nhất thời, hãy xây dựng một cuộc đời mà bạn thực sự tự hào – không phải để chứng tỏ với ai, mà để sống đúng với chính mình.",
+      "comments": [
+        {
+          "user_id": "author_004",
+          "content": "Tớ rất thích bài viết của bạn",
+          "comments": [
+            {
+              "user_id": "author_001",
+              "content": "Cảm ơn bạn đã góp ý! Nếu bạn muốn mình cải thiện bài viết, hãy cho mình biết nhé. 😊",
+              "comments": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "post_002",
+      "title": "Ánh sáng tắt trong một giờ: Hình thức hay ý nghĩa?",
+      "author_id": "author_002",
+      "author": "Trương Trang Nhung",
+      "topic": {
+        "id": "topic_002",
+        "name": "Con người và tự nhiên"
+      },
+      "description": "Vào ngày thứ Bảy cuối cùng của tháng Ba hàng năm, hàng triệu người trên thế giới cùng tham gia sự kiện Giờ Trái Đất bằng cách tắt các thiết bị điện không cần thiết trong một giờ.",
+      "content": "Mỗi năm, vào ngày thứ Bảy cuối cùng của tháng Ba, hàng triệu người trên thế giới cùng tham gia sự kiện Giờ Trái Đất bằng cách tắt các thiết bị điện không cần thiết trong một giờ..."
+    },
+    {
+      "id": "post_003",
+      "title": "Ứng xử khi xảy ra xung đột thế hệ",
+      "author_id": "author_003",
+      "author": "Tạ Hương Trà",
+      "topic": {
+        "id": "topic_003",
+        "name": "Con người trong mối quan hệ người - người"
+      },
+      "description": "Xung đột giữa các thế hệ trong gia đình là điều khó tránh khỏi.",
+      "content": "Xung đột giữa các thế hệ trong gia đình là điều khó tránh khỏi. Ông bà, cha mẹ và con cháu thường có những cách nhìn nhận khác biệt về cuộc sống..."
+    },
+    {
+      "id": "post_004",
+      "title": "Lan tỏa yêu thương: Thái độ đúng đắn với người khuyết tật",
+      "author_id": "author_004",
+      "author": "Nguyễn Diệu Hoa",
+      "topic": {
+        "id": "topic_003",
+        "name": "Con người trong mối quan hệ người - người"
+      },
+      "description": "Trong xã hội hiện đại, khi giá trị nhân văn được đề cao, việc đối xử với người khuyết tật không chỉ là thước đo của sự tiến bộ mà còn phản ánh tinh thần đoàn kết, lòng nhân ái của cộng đồng.",
+      "content": "Trong xã hội hiện đại, khi giá trị nhân văn được đề cao, việc đối xử với người khuyết tật không chỉ là thước đo của sự tiến bộ mà còn phản ánh tinh thần đoàn kết..."
+    }
+  ],
+  "topics": [
+    {
+      "id": "topic_001",
+      "name": "Con người và chính mình"
+    },
+    {
+      "id": "topic_002",
+      "name": "Con người và tự nhiên"
+    },
+    {
+      "id": "topic_003",
+      "name": "Con người trong mối quan hệ người - người"
+    },
+    {
+      "id": "topic_004",
+      "name": "Con người và cộng đồng, đất nước"
+    }
+  ]
+}
